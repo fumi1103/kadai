@@ -12,6 +12,7 @@ window.onload = () => {
         smoothScroll();
 }
 
+
 const smoothScroll = () => {
     const smooth = 10;
     const divisor = 8;
